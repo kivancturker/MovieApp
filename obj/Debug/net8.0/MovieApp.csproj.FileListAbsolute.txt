@@ -1,0 +1,14 @@
+/Users/kivancturker/Dev/csharp/MovieApp/bin/Debug/net8.0/MovieApp
+/Users/kivancturker/Dev/csharp/MovieApp/bin/Debug/net8.0/MovieApp.deps.json
+/Users/kivancturker/Dev/csharp/MovieApp/bin/Debug/net8.0/MovieApp.runtimeconfig.json
+/Users/kivancturker/Dev/csharp/MovieApp/bin/Debug/net8.0/MovieApp.dll
+/Users/kivancturker/Dev/csharp/MovieApp/bin/Debug/net8.0/MovieApp.pdb
+/Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/MovieApp.AssemblyInfoInputs.cache
+/Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/MovieApp.AssemblyInfo.cs
+/Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/MovieApp.csproj.CoreCompileInputs.cache
+/Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/MovieApp.dll
+/Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/refint/MovieApp.dll
+/Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/MovieApp.pdb
+/Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/MovieApp.genruntimeconfig.cache
+/Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/ref/MovieApp.dll
