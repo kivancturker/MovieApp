@@ -12,3 +12,4 @@
 /Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/MovieApp.pdb
 /Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/MovieApp.genruntimeconfig.cache
 /Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/ref/MovieApp.dll
+/Users/kivancturker/Dev/csharp/MovieApp/obj/Debug/net8.0/MovieApp.sourcelink.json
